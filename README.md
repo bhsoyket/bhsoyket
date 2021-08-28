@@ -1,13 +1,10 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Belayet Hossin</h1>
 <h3 align="center">I am a software developer with several years of experience in the software development arena. I am passionate about designing and developing backend APIs, databases, microservices. I enjoy developing myself day by day through learning about new technologies.</h3>
 
 - 📫 How to reach me **2020belayethossain@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/belayet-hossain-b73b09147/](https://www.linkedin.com/in/belayet-hossain-b73b09147/)
+- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/belayet-hossain-b73b09147/)
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/belayet hossain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="belayet hossain" height="30" width="40" /></a>
 <a href="https://fb.com/belayet hossain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="belayet hossain" height="30" width="40" /></a>
